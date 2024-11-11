@@ -1,1 +1,2 @@
 Dag 1: började lära mig om git idag. Det är spännande!
+dag 2: forstatte att utforska git. Gjorde min första commit. 
