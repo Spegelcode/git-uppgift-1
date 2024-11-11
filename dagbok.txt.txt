@@ -1,3 +1,4 @@
 Dag 1: började lära mig om git idag. Det är spännande!
 dag 2: forstatte att utforska git. Gjorde min första commit. 
 dag 3: Lärde mig hur man återstöller diler i Git. 
+dag 4: Började kriva en ny berättelse i min dagbok.
